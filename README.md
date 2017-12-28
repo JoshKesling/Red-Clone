@@ -1,24 +1,14 @@
-# README
+# Vote Link
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a standard, run-of-the-mill link sharing app built with Ruby on Rails and Bootstrap. 
 
-Things you may want to cover:
+It has multiple user authentication using the Devise gem and allows users to post links and to vote links up or down using the acts_as_votable gem.
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+###TODO
+- Make sortable based on
+  - date posted
+  - number of votes
+  - number of comments
+- Allow users to post things other than links

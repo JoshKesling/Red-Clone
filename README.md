@@ -6,7 +6,7 @@ It has multiple user authentication using the Devise gem and allows users to pos
 
 
 
-###TODO
+### TODO
 - Make sortable based on
   - date posted
   - number of votes
